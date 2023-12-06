@@ -1,4 +1,4 @@
-Car-Type,day of week,monthly visits,counts
+car_type,week_day,month,counts
 1,Friday,April,197
 1,Friday,August,1954
 1,Friday,December,21
